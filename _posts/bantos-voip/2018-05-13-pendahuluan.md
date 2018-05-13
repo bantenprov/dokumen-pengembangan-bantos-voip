@@ -3,8 +3,9 @@ date: 2018-05-13
 title: Bantos VOIP
 categories:
   - bantos-voip
-description: Implementasi VOIP Client pada distro linux BantOS
+description: Implementasi Teknologi VOIP pada distro linux BantOS
 type: Document
 ---
 
-## Bantos VOIP
+## VOIP Bantos
+
