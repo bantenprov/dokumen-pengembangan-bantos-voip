@@ -1,6 +1,6 @@
 ---
 date: 2018-05-13
-title: Bantos VOIP
+title: Voip Bantos Server Administration
 categories:
   - bantos-voip
 description: Implementasi Teknologi VOIP pada distro linux BantOS

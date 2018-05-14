@@ -7,10 +7,9 @@ description: Implementasi Teknologi VOIP pada distro linux BantOS
 type: Document
 ---
 
-## Install & Konfigurasi Sofphone Linphone di Bantos
 Linphone adalah Softphone VOIP yang merupakan internet ponsel open source atau Voice Over IP phone (VoIP). Dengan linphone kita dapat berkomunikasi secara bebas dengan orang-orang melalui internet dengan suara. Linphone menggumnakan protokol SIP, sebuah standar terbuka untuk telepon internet. Linphone harus dapat saling beroperasi dengan sebagian SIP-kompatibel ponsel.
 
-### Install Linphone
+## Install Linphone
 
 Sebelum memasang linphone, tambahkan repositori linphone ke sistem :
 Buka terminal gunakan perintah berikut :
@@ -34,7 +33,7 @@ sudo apt-get install linphone -y
 Cari dan klik ikon linphone di dashbor Bantos
 ![Install Linphone](/images/bantos-voip/install-linphone-4.png)
 
-### Konfigurasi Linphone
+## Konfigurasi Linphone
 
 Halaman beranda linphone akan muncul sebagai berikut.
 ![Konfigurasi Linphone](/images/bantos-voip/konfig-linphone-1.png)
@@ -47,5 +46,6 @@ Masukkan detail Akun kita dan klik Apply.
 
 Sekarang kita dapat mulai menggunakan Linphone di Linux Bantos.
 ![Konfigurasi Linphone](/images/bantos-voip/konfig-linphone-4.png)
+
 
 Thank you! for using Linux Bantos.
