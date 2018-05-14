@@ -43,6 +43,7 @@ Tulis pesan dan klik send.
 
 ## Hasil yang didapatkan
 Teknologi VoIP Bantos dengan sofphone Linphone sebagai client Dapat melakukan pengiriman pesan singkat, telefon, dan call video.
+> Untuk kualitas bagus, lebih terjamin bila teknologi VoIP ini dilakukan di jaringan lokal, karna tidak ada permasalahan dalam pemakaian banwidth internet.
 
 ```
 Catatan penting:
