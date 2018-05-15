@@ -7,9 +7,7 @@ description: Implementasi Teknologi VOIP pada distro linux BantOS
 type: Document
 ---
 
-## VOIP Bantos
-
-### Mengenal VoIP – Voice over Internet Protocol
+## Mengenal VoIP – Voice over Internet Protocol
 
 VoIP adalah teknologi yang memanfaatkan Internet Protocol untuk menyediakan komunikasi suara secara elektronis dan real-time. VoIP mulai dikenal di Indonesia semenjak tahun 2000 dimana saat itu sedang marak-maraknya teknologi internet. Saat itu dikenal dengan fasilitas telepon gratis via internet dengan pengguna internet lainnya.
 
@@ -42,7 +40,7 @@ PC client adalah komputer yang digunakan untuk instalasi client VoIP dan melakuk
 5. Sofphone (Linphone, Zoiper)
 Softphone adalah perangkat lunak yang mensimulasikan aksi telepon dan memungkinkan Anda membuat, menerima dan mengelola panggilan suara melalui Internet. Softphone biasanya berjalan di komputer, tablet, PC, dan smartphone, dan diperlukan untuk melakukan panggilan VoIP (Voice over IP) dan panggilan video.
 
-### Jenis-jenis Metode Layanan dan VoIP
+## Jenis-jenis Metode Layanan dan VoIP
 Seluruh layanan PSTN ditambah dengan Instant Messaging, Video Call, Video Conference :
 - Analog Telephone Adaptor (ATA)
 - IP Phones
@@ -57,6 +55,6 @@ IP PHONES yaitu telepon yang sudah memiliki port RJ-45 untuk langsung di sambung
 3. PC to PC
 PC to PC seperti namanya saja kita sudah dapat membayangkan, yaitu panggilan VOIP yang dilakukan menggunakan PC dengan perlengkapan microphone, speaker, dan software yang di sediakan para developer komunikasi VOIP ini contoh : Zoiper, Linphone, X-Lite, User tidak membayar satu sen pun dalam melakukan panggilan antar pengguna sesama layanan.
 
-### Manfaat VoIP
+## Manfaat VoIP
   - Penghematan biaya telepon SLJJ / SLI dengan tidak melanggar hukum
   - Next Generation Network (NGN)
